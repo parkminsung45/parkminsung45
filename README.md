@@ -1,6 +1,5 @@
 🖐️ About Me
 
-UNIST Industrial Engineering
 
 데이터, Ai, 금융 분야를 함께 공부하고 있습니다.
 다양한 사람들을 만나 알고 있는 것을 나누고, 배우는 것을 좋아합니다.
