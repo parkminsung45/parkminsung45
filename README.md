@@ -1,4 +1,60 @@
-## Hi there 👋
+🖐️ About Me
+
+UNIST Industrial Engineering
+
+데이터, Ai, 금융 분야를 함께 공부하고 있습니다.
+다양한 사람들을 만나 알고 있는 것을 나누고, 배우는 것을 좋아합니다.
+🏃‍➡️ Achievements & Activities
+
+2026
+
+청소년 SW 동행 프로젝트 청년 멘토 | 최우수상(과학기술정보통신부 장관상) | 2025.09~ 2025.12
+SRI 데이터 경진대회 : 수원시 정책 아이디어 제안 | 우수상 | 2025.09
+2025 필드캠프 | 우수상 | 2025.08
+펄어비스 딩가딩 프로젝트 대학생 서포터즈 | 2025.07~ 2025.11
+대통령 과학 장학생 23기 선정 | 2025.04
+Goormthon Univ. UNIST Backend Developer | 2025.03 ~ 2025.09
+
+
+2025
+
+SQL 개발자 자격증 취득| 2024.12
+2024 제3회 오픈데이터포럼 해커톤 | 우수상 | 2024.11
+SHINSEGAE I&C 리테일 테크 코딩 교실 멘토 | 우수 멘토 | 2024.09~ 2024.11
+SKT DEVOCEAN YOUNG 3기| 우수 수료 | 2024.02~ 2023.11
+2023
+
+2023 데이터 크리에이터 캠프 수료 | 2023.10
+LG CNS AI지니어스 대학생 서포터즈 활동 | 최우수 팀 | 2023.09 ~ 2023.12
+LG Aimers 온라인 채널 제품 판매량 예측 해커톤 참여 | 2023.09
+ADSP 데이터 분석 준 전문가 자격증 취득 | 2023.09
+성신여자 대학교 교내 소프트웨어 경시대회| 우수상 | 2023.06 ~ 2023.08
+Tech Stack
+
+   
+2022
+
+
+
+
+
+
+2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **parkminsung45/parkminsung45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
