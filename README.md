@@ -151,6 +151,11 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+**Collaboration**
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
 **Research Interests**
 
 `금융공학 (Quantitative Finance)` · `LLM 기반 추천 시스템` · `시계열 클러스터링 (K-Shape)` · `페어트레이딩 / 통계적 차익거래`
