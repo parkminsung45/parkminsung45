@@ -35,7 +35,7 @@
 ## 🏢 Professional Experience
 
 <details open>
-<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=koita.or.kr" width="18" height="18" valign="middle"/> <b>한국산업기술진흥협회 (KOITA)</b> — 병역특례 기업 연구소 지원 업무 · 2025.01 – 2025.03</summary>
+<summary>🏛️ <b>한국산업기술진흥협회 (KOITA)</b> — 병역특례 기업 연구소 지원 업무 · 2025.01 – 2025.03</summary>
 <br>
 
 - 연구소 인증 및 협약 지원 업무
@@ -126,6 +126,21 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Design & Productivity**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
+
+**Backend & App**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Research Interests**
 
