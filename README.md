@@ -154,12 +154,3 @@
 **Research Interests**
 
 `금융공학 (Quantitative Finance)` · `LLM 기반 추천 시스템` · `시계열 클러스터링 (K-Shape)` · `페어트레이딩 / 통계적 차익거래`
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkminsung45&show_icons=true&count_private=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkminsung45&layout=compact&hide_border=true&theme=default)
-
-</div>
