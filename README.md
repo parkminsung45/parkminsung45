@@ -23,6 +23,8 @@
 
 ## 🔬 Experience
 **Data Intelligence Lab** - 학부연구생 &nbsp;|&nbsp; 2026.08 – present
+
+
 **Financial Data Science Lab** — 학부연구생 &nbsp;|&nbsp; 2023.03 – 2023.06
 - 참여 논문: 「K-shape 클러스터링 기반 페어트레이딩 전략」
 - 금융 시계열 클러스터링 및 통계적 차익거래 전략 연구
