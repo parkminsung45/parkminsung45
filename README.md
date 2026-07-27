@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=halfclub.com" width="18" height="18" valign="middle"/> <b>하프클럽 (Halfclub)</b> — CS매니저 · 2021.01 – 2021.03</summary>
+<summary>🛍️ <b>하프클럽 (Halfclub)</b> — CS매니저 · 2021.01 – 2021.03</summary>
 <br>
 
 - 거래 ERP 시스템 관리, 고객·배송시스템 관리
@@ -92,8 +92,8 @@
 |---|---|
 | SQL 개발자 자격증 (SQLD) | 2024.12 |
 | AI CPA 1차 합격 | 2024.11 |
+| ADSP (데이터분석 준전문가) | 2024.05 |
 | 투자자산운용사 | 2024.03 |
-| ADSP (데이터분석 준전문가) | 2023.09 |
 | 6시그마 그린벨트(6sigma GB) 전문가과정 | 2021.05 |
 
 ---
