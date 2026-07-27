@@ -35,7 +35,7 @@
 ## 🏢 Professional Experience
 
 <details open>
-<summary><b>한국산업기술진흥협회 (KOITA)</b> — 병역특례 기업 연구소 지원 업무 · 2025.01 – 2025.03</summary>
+<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=koita.or.kr" width="18" height="18" valign="middle"/> <b>한국산업기술진흥협회 (KOITA)</b> — 병역특례 기업 연구소 지원 업무 · 2025.01 – 2025.03</summary>
 <br>
 
 - 연구소 인증 및 협약 지원 업무
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-<summary><b>NEXON KOREA (넥슨코리아)</b> — IP사업팀 · 2023.01 – 2023.02</summary>
+<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=nexon.com" width="18" height="18" valign="middle"/> <b>NEXON KOREA (넥슨코리아)</b> — IP사업팀 · 2023.01 – 2023.02</summary>
 <br>
 
 - IP 자재·재고 관리 및 타사 경쟁제 리서치·모니터링
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary><b>스타트업 DSG</b> — 서비스 기획 / 영업 (Co-founder) · 2022.09 – 2022.12</summary>
+<summary>🚀 <b>스타트업 DSG</b> — 서비스 기획 / 영업 (Co-founder) · 2022.09 – 2022.12</summary>
 <br>
 
 - AI 기반 커리어·취업 컨텐츠 서비스 기획 및 UI/UX 설계
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>신한라이프생명보험 (LG CNS 협업)</b> — 단기계약 · 2022.01 – 2022.02</summary>
+<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=shinhanlife.co.kr" width="18" height="18" valign="middle"/> <b>신한라이프생명보험 (LG CNS 협업)</b> — 단기계약 · 2022.01 – 2022.02</summary>
 <br>
 
 - PerfectWin 시스템 오류 검증 및 커뮤니케이션 (로그 기반)
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary><b>야놀자</b> — 영업/경영지원팀 · 2021.07 – 2021.09</summary>
+<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=yanolja.com" width="18" height="18" valign="middle"/> <b>야놀자</b> — 영업/경영지원팀 · 2021.07 – 2021.09</summary>
 <br>
 
 - CJ 대한통운-CNPLUS 활용 물류 유통 및 영업지원
@@ -79,12 +79,21 @@
 </details>
 
 <details>
-<summary><b>하프클럽 (Halfclub)</b> — CS매니저 · 2021.01 – 2021.03</summary>
+<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=halfclub.com" width="18" height="18" valign="middle"/> <b>하프클럽 (Halfclub)</b> — CS매니저 · 2021.01 – 2021.03</summary>
 <br>
 
 - 거래 ERP 시스템 관리, 고객·배송시스템 관리
 
 </details>
+
+---
+
+## 📜 Certifications
+
+| 자격증 | 취득일 |
+|---|---|
+| SQL 개발자 자격증 (SQLD) | 2024.12 |
+| ADSP (데이터분석 준전문가) | 2023.09 |
 
 ---
 
