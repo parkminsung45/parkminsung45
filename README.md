@@ -14,7 +14,7 @@
 
 ## 🎓 Education
 
-**울산과학기술원 (UNIST)** — AI융합대학 산업공학과 · Ulsan, Korea &nbsp;|&nbsp; – Present
+**울산과학기술원 (UNIST)** — AI융합대학 산업공학과 · Ulsan, Korea &nbsp;|&nbsp;  ~ Present
 - 관심 연구 분야: 금융공학, LLM 기반 추천 시스템
 
 **서울세종고등학교** &nbsp;|&nbsp; 2018.03 – 2021.02
