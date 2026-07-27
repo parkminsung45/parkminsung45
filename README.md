@@ -88,6 +88,12 @@
 
 ---
 
+## 🎖️ Military Service
+
+**육군 제3군단 23경비여단** — 병장 만기전역 &nbsp;|&nbsp; 2023.06 – 2024.11
+
+---
+
 ## 🛠️ Tech Stack
 
 **Language & Data**
