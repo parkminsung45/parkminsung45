@@ -55,13 +55,13 @@
 <summary>🚀 <b>스타트업 DSG</b> — 서비스 기획 / 영업 (Co-founder) · 2022.09 – 2022.12</summary>
 <br>
 
-- AI 기반 커리어·취업 컨텐츠 서비스 기획 및 UI/UX 설계
+- AI 기반 분위기 좋은 카페 추천 서비스 기획 및 UI/UX 설계
 - 성수동 카페와 제휴 160개소 방문 영업, 약 50개소 계약 체결
 
 </details>
 
 <details>
-<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=shinhanlife.co.kr" width="18" height="18" valign="middle"/> <b>신한라이프생명보험 (LG CNS 협업)</b> — 단기계약 · 2022.01 – 2022.02</summary>
+<summary><img src="https://www.google.com/s2/favicons?sz=64&domain=shinhanlife.co.kr" width="18" height="18" valign="middle"/> <b>신한라이프생명보험 (LG CNS 협업)</b> · 2022.01 – 2022.02</summary>
 <br>
 
 - PerfectWin 시스템 오류 검증 및 커뮤니케이션 (로그 기반)
