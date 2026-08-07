@@ -22,7 +22,9 @@
 ---
 
 ## 🔬 Experience
-**Data Intelligence Lab** - 학부연구생 &nbsp;|&nbsp; 2026.08 – present
+**Data Intelligence Lab** - 학부연구생 &nbsp;|&nbsp; 2026.09 – present
+
+https://sites.google.com/view/unist-dilab/members
 
 
 **Financial Data Science Lab** - 학부연구생 &nbsp;|&nbsp; 2023.03 – 2023.06
