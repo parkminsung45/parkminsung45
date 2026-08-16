@@ -161,3 +161,15 @@ https://sites.google.com/view/unist-dilab/members
 **Research Interests**
 
 `금융공학 (Quantitative Finance)` · `LLM 기반 추천 시스템` · `시계열 클러스터링 (K-Shape)` · `페어트레이딩 / 통계적 차익거래`
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=parkminsung45&theme=tokyonight&hide_border=true&date_format=Y.n.j)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=parkminsung45&theme=tokyo-night&hide_border=true)
+
+</div>
