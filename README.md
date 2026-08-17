@@ -38,7 +38,6 @@ https://sites.google.com/view/unist-dilab/members
 
 
 **Financial Data Science Lab** - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2023.03 – 2023.06
-- 참여 논문: 「K-shape 클러스터링 기반 페어트레이딩 전략」
 - 금융 시계열 클러스터링 및 통계적 차익거래 전략 연구
 - Python 기반 데이터 분석 및 백테스팅 파이프라인 구축
 
