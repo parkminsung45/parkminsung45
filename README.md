@@ -2,9 +2,9 @@
 
 # 🖐️ Hi, I'm Minsung Park
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%2B+AI+%2B+Finance;LLM+%EA%B8%B0%EB%B0%98+%EC%B6%94%EC%B2%9C+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EC%97%B0%EA%B5%AC%EC%A4%91;%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EB%82%98%EB%88%84%EB%8A%94+%EA%B2%83%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%2B+AI+%2B+Finance+%2B+Blockchain;LLM+%EA%B8%B0%EB%B0%98+%EC%B6%94%EC%B2%9C+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EC%97%B0%EA%B5%AC%EC%A4%91;%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EB%82%98%EB%88%84%EB%8A%94+%EA%B2%83%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
 
-데이터, AI, 금융 분야를 함께 공부하고 있습니다.
+데이터, AI, 금융, 블록체인 분야를 함께 공부하고 있습니다.
 다양한 사람들을 만나 알고 있는 것을 나누고, 배우는 것을 좋아합니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/parkminsung45)
