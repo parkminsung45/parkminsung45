@@ -16,16 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parkminsung45&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 **울산과학기술원 (UNIST)** — AI융합대학 산업공학과 · Ulsan, Korea &nbsp;|&nbsp; UnderGraduate&nbsp;Junior (Present)
