@@ -22,7 +22,7 @@
 ---
 
 ## 🔬 Experience
-**Data Intelligence Lab**UNIST&nbsp;AIGS - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2026.09 – present
+**Data Intelligence Lab**(UNIST&nbsp;AIGS) - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2026.09 – present
 
 **멋쟁이사자처럼 부트캠프 AI Plus NLP 5기** - Bootcamp &nbsp;|&nbsp; 수료
 
