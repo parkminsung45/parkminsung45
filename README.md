@@ -16,13 +16,13 @@
 
 ## 🎓 Education
 
-**울산과학기술원 (UNIST)** — AI융합대학 산업공학과 · Ulsan, Korea &nbsp;|&nbsp; UnderGraduate&nbsp;Junior (Present)
+**울산과학기술원 (UNIST)** — AI융합대학 산업공학과 · Ulsan, Korea &nbsp;|&nbsp; UnderGraduate
 - 관심 연구 분야: 금융공학, LLM 기반 추천 시스템
   
 ---
 
 ## 🔬 Experience
-**Data Intelligence Lab** - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2026.09 – present
+**Data Intelligence Lab**UNIST&nbsp;AIGS - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2026.09 – present
 
 **멋쟁이사자처럼 부트캠프 AI Plus NLP 5기** - Bootcamp &nbsp;|&nbsp; 수료
 
