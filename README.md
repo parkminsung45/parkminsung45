@@ -24,6 +24,8 @@
 ## 🔬 Experience
 **Data Intelligence Lab**(UNIST&nbsp;AIGS) - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2026.09 – present
 
+- 📚 [UNIST_Data-Intelligence-Lab-AIGS-](https://github.com/parkminsung45/UNIST_Data-Intelligence-Lab-AIGS-) — 학부연구생으로 읽고 발표한 논문, 랩미팅 기록과 TIL 노트
+
 **멋쟁이사자처럼 부트캠프 AI Plus NLP 5기** - Bootcamp &nbsp;|&nbsp; 수료
 
 자연어처리(NLP) 기초 이론부터 임베딩·키프레이즈 추출, RAG(검색 증강 생성) 파이프라인 설계, LLM 기반 에이전트·서비스 개발까지 학습했습니다. 과정 중 진행한 팀 프로젝트를 통해 텍스트 마이닝, 멀티모달 데이터 처리, LLM 에이전트 오케스트레이션을 직접 설계·구현했습니다.
