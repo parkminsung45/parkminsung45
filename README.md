@@ -1,84 +1,69 @@
 <div align="center">
 
-# 🖐️ Hi, I'm Minsung Park
+# Minsung Park
 
-데이터, AI, 금융, 블록체인 분야를 함께 공부하고 있습니다.
-다양한 사람들을 만나 알고 있는 것을 나누고, 배우는 것을 좋아합니다.
+UNIST 산업공학과 · Data, AI, Finance
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/parkminsung45)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patrick01053457926@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=parkminsung45&color=58A6FF&style=flat&label=Profile+Views)
+<a href="mailto:patrick01053457926@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://upbit-spread-rl-dashboard.vercel.app"><img src="https://img.shields.io/badge/Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Dashboard"></a>
 
 </div>
 
----
+<br>
 
-## 🎓 Education
+데이터, AI, 금융, 블록체인을 공부하고 있습니다.
+금융공학과 LLM 기반 추천 시스템에 관심이 많고, 사람들과 아는 것을 나누며 배우는 걸 좋아합니다.
 
-**울산과학기술원 (UNIST)** — AI융합대학 산업공학과 · Ulsan, Korea &nbsp;|&nbsp; UnderGraduate
-- 관심 연구 분야: 금융공학, LLM 기반 추천 시스템
-  
----
+<br>
 
-## 🔬 Experience
-**Data Intelligence Lab**(UNIST&nbsp;AIGS) - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2026.09 – present
+## Education
 
-- 📚 [UNIST_Data-Intelligence-Lab-AIGS-](https://github.com/parkminsung45/UNIST_Data-Intelligence-Lab-AIGS-) — 학부연구생으로 읽고 발표한 논문, 랩미팅 기록과 TIL 노트
+**울산과학기술원 (UNIST)** · AI융합대학 산업공학과 학사과정
+<br>관심 분야: 금융공학, LLM 기반 추천 시스템
 
-**멋쟁이사자처럼 부트캠프 AI Plus NLP 5기** - Bootcamp &nbsp;|&nbsp; 수료
+<br>
 
-자연어처리(NLP) 기초 이론부터 임베딩·키프레이즈 추출, RAG(검색 증강 생성) 파이프라인 설계, LLM 기반 에이전트·서비스 개발까지 학습했습니다. 과정 중 진행한 팀 프로젝트를 통해 텍스트 마이닝, 멀티모달 데이터 처리, LLM 에이전트 오케스트레이션을 직접 설계·구현했습니다.
+## Experience
 
-- 🔑 [Keyphrase Extraction](https://github.com/parkminsung45/keyphrase-extraction) — 어휘 불일치(Vocabulary Mismatch) 문제 해결을 위한 키프레이즈 생성 연구. TF-IDF/KeyBERT 등 추출 기반 baseline과 KeyBART 등 생성 기반 모델을 비교해, present/absent 키프레이즈를 함께 생성함으로써 RAG의 sparse 인덱스·쿼리 확장에 활용 가능한 구조를 설계 (팀 프로젝트 · **담당: Baseline 모델 및 Proposed 모델 설계, 결과 발표자료 제작**)
-  https://www.figma.com/deck/PnqYsZDIRUekmdCaOqXSyQ/%EB%A9%8B%EC%82%AC-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1-97&t=UPXxhEVI6NLwTZlm-1
- 
-- 📄 [Multimodal RAG](https://github.com/parkminsung45/multimodality_RAG) — 애널리스트 산업·섹터 리포트(PDF)를 페이지 유형별(텍스트/표/이미지)로 자동 분류해 YOLOv11n·MinerU·Table Transformer·VLM 등 유형별 최적 도구로 정보를 추출하고, 근거를 하나의 DB로 통합해 질의에 답하는 멀티모달 RAG 파이프라인 구축 (팀 프로젝트 · **담당: KOSPI200 종목 스코어링 파이프라인(재무·뉴스·기술적 지표 등 다중 소스 융합 로직 및 최종 리포트 생성 모듈) 개발, 최종 발표자료 제작**)
-  https://www.figma.com/deck/rJKbTwLwK0yrvTLN2Ysl0G/%EB%A9%8B%EC%82%AC-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1-341&t=gitIbcVq7YXnYV7w-1_
-- 🛒 [αlpha Pick](https://github.com/parkminsung45/Alphapick_-LLM-based-purchase-) — 검색어를 LLM(HCX)으로 정제하고 실제 쇼핑몰 검색 순위를 반영해 근거 기반 상품 추천을 제공하는 LLM 기반 구매 추천 서비스. Google ADK 기반 SequentialAgent 파이프라인(정제→검색→필터링→판정)과 대화형 상세검색(HITL) 기능 설계 (팀 프로젝트 · **담당: 파이프라인 아키텍처 비교 벤치마크 설계·실행(비용·성능 계측), 토큰 사용량 트래킹 버그 및 AI 상세검색 facet 오분류 회귀 수정, 프로젝트 문서화**)
+| 기간 | 소속 | 내용 |
+| :-- | :-- | :-- |
+| 2026.09 – 현재 | **Data Intelligence Lab**, UNIST AIGS | 학부연구생. 논문 리뷰, 랩미팅 발표 · [기록 보기](https://github.com/parkminsung45/UNIST_Data-Intelligence-Lab-AIGS-) |
+| 수료 | **멋쟁이사자처럼 AI Plus NLP 5기** | NLP 기초부터 임베딩, RAG 파이프라인, LLM 에이전트 개발까지. 팀 프로젝트 3건 |
+| 2023.03 – 2023.06 | **Financial Data Science Lab** | 학부연구생. 금융 시계열 클러스터링, 통계적 차익거래 전략 연구, 백테스팅 파이프라인 구축 |
 
+<br>
 
-**Financial Data Science Lab** - Undergraduate&nbsp;Intern &nbsp;|&nbsp; 2023.03 – 2023.06
-- 금융 시계열 클러스터링 및 통계적 차익거래 전략 연구
-- Python 기반 데이터 분석 및 백테스팅 파이프라인 구축
+## Projects
 
-## 🛠️ Tech Stack
+| 프로젝트 | 설명 | 구분 |
+| :-- | :-- | :-- |
+| [**upbit-spread-rl**](https://github.com/parkminsung45/Minsung-Crypto_Currency-Pair-Trading-Investment-Model-) | 업비트 Open API로 페어 스프레드·호가 스프레드 전략을 학습하는 강화학습(PPO) 자동매매. [대시보드](https://upbit-spread-rl-dashboard.vercel.app) | 개인 |
+| [**OIBC 2026 Solar Forecast**](https://github.com/parkminsung45/oibc-2026-solar-forecast) | 태양광 발전소를 두 개의 집합자원(VPP)으로 구성하고 하루 전 발전량 예측 | 대회 |
+| [**GLIP**](https://github.com/parkminsung45/GLIP-Yonsei_Nur-Ulsan_Med-UNIST_Digital_Healthcare_Hackathon) | GLP-1 약물 사용자를 위한 아바타 기반 셀프케어 서비스 기획. 4th UU Digital Healthcare Hackathon 2026 | 해커톤 |
+| [**AI Investment Journal**](https://github.com/parkminsung45/ai-investment-journal) | 투자 판단 과정을 기록하고 편향·패턴을 분석하는 다이어리 MVP | 개인 |
+| [**αlpha Pick**](https://github.com/parkminsung45/Alphapick_-LLM-based-purchase-) | LLM(HCX)으로 검색어를 정제하고 실제 쇼핑몰 순위를 반영해 상품을 추천하는 서비스. Google ADK SequentialAgent 파이프라인 | 팀 · 멋사 |
+| [**Multimodal RAG**](https://github.com/parkminsung45/multimodality_RAG) | 애널리스트 리포트 PDF를 페이지 유형별로 분류해 YOLOv11n, MinerU, Table Transformer, VLM으로 추출하고 하나의 DB로 통합한 RAG | 팀 · 멋사 |
+| [**Keyphrase Extraction**](https://github.com/parkminsung45/keyphrase-extraction) | 어휘 불일치 문제를 겨냥해 present/absent 키프레이즈를 함께 생성. TF-IDF, KeyBERT, KeyBART 비교 | 팀 · 멋사 |
 
-**Language & Data**
+<details>
+<summary><b>팀 프로젝트 담당 역할</b></summary>
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- **αlpha Pick** — 파이프라인 아키텍처 비교 벤치마크 설계·실행(비용·성능 계측), 토큰 사용량 트래킹 버그와 AI 상세검색 facet 오분류 회귀 수정, 프로젝트 문서화
+- **Multimodal RAG** — KOSPI200 종목 스코어링 파이프라인 개발(재무·뉴스·기술적 지표 융합, 최종 리포트 생성 모듈), 최종 발표자료 제작 · [발표자료](https://www.figma.com/deck/rJKbTwLwK0yrvTLN2Ysl0G/%EB%A9%8B%EC%82%AC-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1-341)
+- **Keyphrase Extraction** — Baseline 모델과 Proposed 모델 설계, 결과 발표자료 제작 · [발표자료](https://www.figma.com/deck/PnqYsZDIRUekmdCaOqXSyQ/%EB%A9%8B%EC%82%AC-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1-97)
 
-**Data & ML**
+</details>
 
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<br>
 
-**Tools**
+## Tech Stack
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Design & Productivity**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-
-**Backend & App**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Collaboration**
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+| | |
+| :-- | :-- |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Data · ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Backend · App** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) |
+| **Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white) ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white) |
