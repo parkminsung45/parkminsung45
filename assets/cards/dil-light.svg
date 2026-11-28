@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="176" viewBox="0 0 480 176" fill="none">
+<style></style>
+<rect x="1" y="1" width="478" height="174" rx="12" fill="#F6F8FA" stroke="#D1D9E0"/>
+<text x="26.0" y="38.0" font-family="'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" fill="#2F5BD3" text-anchor="start" letter-spacing="1.3">RESEARCH LOG · LAB</text>
+<text x="454.0" y="40.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#6E7781" text-anchor="end" >↗</text>
+<text x="26.0" y="70.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1F2328" text-anchor="start" letter-spacing="-0.3">Data Intelligence Lab</text>
+<text x="26.0" y="98.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3B434B" text-anchor="start" >UNIST AIGS Data Intelligence Lab 학부연구생 기록. 논문 리뷰, 랩미팅</text>
+<text x="26.0" y="119.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#3B434B" text-anchor="start" >발표 자료, TIL</text>
+<rect x="26.0" y="134" width="98.5" height="22" rx="11" fill="#FFFFFF" stroke="#D1D9E0"/>
+<text x="75.3" y="149.0" font-family="'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6E7781" text-anchor="middle" >Paper Review</text>
+<rect x="131.5" y="134" width="38.1" height="22" rx="11" fill="#FFFFFF" stroke="#D1D9E0"/>
+<text x="150.6" y="149.0" font-family="'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6E7781" text-anchor="middle" >TIL</text>
+</svg>
